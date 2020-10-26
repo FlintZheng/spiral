@@ -1,2 +1,2 @@
 # spiral
-Systemize Java-tech tier
+Systemize Java-tech stack
