@@ -1,8 +1,8 @@
 package com.spiral.design.pattern;
 
-import com.spiral.design.pattern.constant.FactoryEnum;
+import com.spiral.design.pattern.factory.constant.FactoryEnum;
+import com.spiral.design.pattern.factory.service.IFactoryService;
 import com.spiral.design.pattern.factory.Ifactory;
-import com.spiral.design.pattern.service.IFactoryService;
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 

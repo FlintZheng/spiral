@@ -1,9 +1,10 @@
 package com.spiral.design.pattern.factory;
 
-import com.spiral.design.pattern.constant.FactoryEnum;
-import com.spiral.design.pattern.service.IFactoryService;
-import com.spiral.design.pattern.service.impl.CarService;
-import com.spiral.design.pattern.service.impl.FoodService;
+
+import com.spiral.design.pattern.factory.constant.FactoryEnum;
+import com.spiral.design.pattern.factory.service.IFactoryService;
+import com.spiral.design.pattern.factory.service.impl.CarService;
+import com.spiral.design.pattern.factory.service.impl.FoodService;
 
 /**
  * @author dengpeng

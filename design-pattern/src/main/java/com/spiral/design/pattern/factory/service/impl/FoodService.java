@@ -1,6 +1,7 @@
-package com.spiral.design.pattern.service.impl;
+package com.spiral.design.pattern.factory.service.impl;
 
-import com.spiral.design.pattern.service.IFactoryService;
+
+import com.spiral.design.pattern.factory.service.IFactoryService;
 import lombok.extern.slf4j.Slf4j;
 
 import java.util.Map;

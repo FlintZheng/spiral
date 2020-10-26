@@ -1,4 +1,4 @@
-package com.spiral.design.pattern.constant;
+package com.spiral.design.pattern.factory.constant;
 
 import lombok.Getter;
 
