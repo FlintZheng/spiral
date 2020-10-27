@@ -12,6 +12,10 @@ import java.util.Map;
 @SpringBootTest
 class DesignPatternApplicationTests {
 
+
+	/**
+	 * 减少业务代码中的if else
+	 */
 	@Test
 	void contextLoads() throws Exception {
 		Ifactory ifactory =new Ifactory();
